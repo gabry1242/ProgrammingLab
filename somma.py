@@ -1,7 +1,7 @@
 #creare una lista
 valori=[]
 #apro e leggo il file txt
-lista=open('sales.txt','r')
+lista=open('shampoo_sales.csv','r')
 
 #divido gli elementi per prendere i valori e non le date
 for line in lista:
